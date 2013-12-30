@@ -1,0 +1,126 @@
+if 0>0:
+print 1
+end
+if 0>=0:
+print 2
+end
+if 0<0:
+print 3
+end
+if 0<=0:
+print 4
+end
+if 0==0:
+print 5
+end
+if 0!=0:
+print 6
+end
+if 123>232:
+print 1
+end
+if 123>=232:
+print 2
+end
+if 123<232:
+print 3
+end
+if 123<=232:
+print 4
+end
+if 123==232:
+print 5
+end
+if 123!=232:
+print 6
+end
+if 342234>1:
+print 1
+end
+if 342234>=1:
+print 2
+end
+if 342234<1:
+print 3
+end
+if 342234<=1:
+print 4
+end
+if 342234==1:
+print 5
+end
+if 342234!=1:
+print 6
+end
+if 123>-2:
+print 1
+end
+if 123>=-2:
+print 2
+end
+if 123<-2:
+print 3
+end
+if 123<=-2:
+print 4
+end
+if 123==-2:
+print 5
+end
+if 123!=-2:
+print 6
+end
+if -3123>2423:
+print 1
+end
+if -3123>=2423:
+print 2
+end
+if -3123<2423:
+print 3
+end
+if -3123<=2423:
+print 4
+end
+if -3123==2423:
+print 5
+end
+if -3123!=2423:
+print 6
+end
+if -234234>-23:
+print 1
+end
+if -234234>=-23:
+print 2
+end
+if -234234<-23:
+print 3
+end
+if -234234<=-23:
+print 4
+end
+if -234234==-23:
+print 5
+end
+if -234234!=-23:
+print 6
+end
+if -6>-345345:
+print 1
+end
+if -6>=-345345:
+print 2
+end
+if -6<-345345:
+print 3
+end
+if -6<=-345345:
+print 4
+end
+if -6==-345345:
+print 5
+end
+if -6!=-345345:
+print 6
+end

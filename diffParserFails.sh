@@ -1,0 +1,5 @@
+TEST_DIR=tests
+OUTPUT_DIR=$TEST_DIR/output
+CORRECT_OUTPUT_DIR=$TEST_DIR/correct_output
+
+vimdiff "$OUTPUT_DIR/$1" "$CORRECT_OUTPUT_DIR/$1"

@@ -1,0 +1,10 @@
+global = 1
+
+def assign():
+	global = 2
+	local = 1
+end
+assign()
+print global
+print local
+
