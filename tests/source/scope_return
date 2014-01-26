@@ -1,0 +1,22 @@
+def foo():
+	a = 0
+	if 2 > 1:
+		return a
+		a = 1
+		return a
+		a = 2
+	end
+	return a
+	a = 3
+	return a
+
+end
+
+def bar():
+	return 0
+	print -1
+end
+
+print foo()
+print bar()
+
